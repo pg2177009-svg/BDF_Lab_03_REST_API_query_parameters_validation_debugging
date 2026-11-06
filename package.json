@@ -1,0 +1,27 @@
+{
+  "name": "bdf-lab-03-rest-api",
+  "version": "1.0.0",
+  "description": "Lab 3: REST API, query parameters, validation, and debugging - Backend Development Fundamentals",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "seed": "node scripts/seed.js",
+    "test": "node scripts/test-api.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "sqlite",
+    "validation",
+    "debugging"
+  ],
+  "author": "Paka Gopinadh (252U1R1175)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
+
