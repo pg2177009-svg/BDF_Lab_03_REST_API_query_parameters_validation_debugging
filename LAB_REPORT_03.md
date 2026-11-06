@@ -17,6 +17,7 @@
 | **Faculty In-Charge** | Joel Prashanth D |
 | **Name of Assessment** | LAB JOURNAL - 3 |
 | **Date of Submission** | 06/11/2026 |
+| **GitHub Repository** | [pg2177009-svg/BDF_Lab_03_REST_API_query_parameters_validation_debugging](https://github.com/pg2177009-svg/BDF_Lab_03_REST_API_query_parameters_validation_debugging) |
 
 ---
 
