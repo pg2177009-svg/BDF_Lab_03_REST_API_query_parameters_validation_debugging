@@ -13,7 +13,7 @@ app.get('/', (_req, res) => {
     name: 'Books REST API - Lab 3',
     version: '1.0.0',
     course: 'Backend Development Fundamentals',
-    faculty: 'Joel Prashanth D',
+    faculty: 'Mr Sai Siva Teja Chintakrindi',
     student: 'Paka Gopinadh (252U1R1175)',
     endpoints: {
       'GET /books': 'List books with query parameters (search_q, order_by, order, limit, offset, min_price, max_price)',

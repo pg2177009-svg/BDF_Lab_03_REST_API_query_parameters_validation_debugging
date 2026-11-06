@@ -2,7 +2,7 @@
   "info": {
     "_postman_id": "bdf-lab-03-rest-api-collection",
     "name": "BDF Lab 03 - REST API, Query Parameters & Validation",
-    "description": "Postman test suite for Backend Development Fundamentals - Lab 3\nStudent: Paka Gopinadh (252U1R1175)\nFaculty: Joel Prashanth D",
+    "description": "Postman test suite for Backend Development Fundamentals - Lab 3\nStudent: Paka Gopinadh (252U1R1175)\nFaculty: Mr Sai Siva Teja Chintakrindi",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "variable": [
@@ -367,7 +367,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"title\": \"Architecting Scalable Backend Systems\",\n  \"author\": \"Joel Prashanth D\",\n  \"price\": 45.00,\n  \"genre\": \"System Architecture\"\n}"
+              "raw": "{\n  \"title\": \"Architecting Scalable Backend Systems\",\n  \"author\": \"Mr Sai Siva Teja Chintakrindi\",\n  \"price\": 45.00,\n  \"genre\": \"System Architecture\"\n}"
             },
             "url": {
               "raw": "{{baseUrl}}/books",
@@ -514,7 +514,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"title\": \"Architecting Scalable Backend Systems (Revised)\",\n  \"author\": \"Joel Prashanth D\",\n  \"price\": 49.99,\n  \"genre\": \"Enterprise Engineering\"\n}"
+              "raw": "{\n  \"title\": \"Architecting Scalable Backend Systems (Revised)\",\n  \"author\": \"Mr Sai Siva Teja Chintakrindi\",\n  \"price\": 49.99,\n  \"genre\": \"Enterprise Engineering\"\n}"
             },
             "url": {
               "raw": "{{baseUrl}}/books/{{createdBookId}}",

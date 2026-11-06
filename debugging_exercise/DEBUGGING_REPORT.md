@@ -1,6 +1,6 @@
 # Lab 3: Debugging Exercise Technical Report
 **Course:** Backend Development Fundamentals (BDF) · Year II Term II · Aurora  
-**Faculty:** Joel Prashanth D  
+**Faculty:** Mr Sai Siva Teja Chintakrindi  
 **Student:** Paka Gopinadh (252U1R1175)  
 
 ---

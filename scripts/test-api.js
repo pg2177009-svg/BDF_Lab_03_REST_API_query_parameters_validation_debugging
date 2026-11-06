@@ -147,7 +147,7 @@ async function runTests() {
     {
       const newBook = {
         title: 'Building RESTful APIs with Node.js',
-        author: 'Joel Prashanth D',
+        author: 'Mr Sai Siva Teja Chintakrindi',
         price: 29.50,
         genre: 'Web Development',
       };
@@ -262,7 +262,7 @@ async function runTests() {
     {
       const updateData = {
         title: 'Building RESTful APIs with Node.js & Express (2nd Edition)',
-        author: 'Joel Prashanth D',
+        author: 'Mr Sai Siva Teja Chintakrindi',
         price: 34.00,
         genre: 'Advanced Web Development',
       };

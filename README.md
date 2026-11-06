@@ -2,7 +2,7 @@
 
 **Course:** Backend Development Fundamentals (BDF)  
 **Institution:** Aurora Higher Education  
-**Faculty:** Joel Prashanth D  
+**Faculty:** Mr Sai Siva Teja Chintakrindi  
 **Student:** Paka Gopinadh (Registration No: 252U1R1175, Class: CSE-2D, Slot: S19)  
 
 ---
