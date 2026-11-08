@@ -4,6 +4,7 @@
 **Institution:** Aurora Higher Education  
 **Faculty:** Mr Sai Siva Teja Chintakrindi  
 **Student:** Paka Gopinadh (Registration No: 252U1R1175, Class: CSE-2D, Slot: S19)  
+**Live Deployed URL:** [https://bdf-lab-03-rest-api-query-parameters.onrender.com](https://bdf-lab-03-rest-api-query-parameters.onrender.com)  
 
 ---
 
