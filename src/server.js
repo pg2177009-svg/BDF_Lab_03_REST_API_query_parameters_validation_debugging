@@ -10,8 +10,8 @@ async function startServer(port = DEFAULT_PORT) {
     await getDb();
     console.log('[Database] SQLite connected and schema verified.');
 
-    const server = app.listen(port, () => {
-      console.log(`[Server] Running successfully on http://localhost:${port}`);
+    const server = app.listen(port, '0.0.0.0', () => {
+      console.log(`[Server] Running successfully on http://0.0.0.0:${port}`);
       console.log(`[Server] Environment: ${process.env.NODE_ENV || 'development'}`);
     });
 

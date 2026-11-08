@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node src/server.js",
     "seed": "node scripts/seed.js",
+    "build": "npm run seed",
     "test": "node scripts/test-api.js"
   },
   "keywords": [

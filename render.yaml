@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: bdf-lab-03-rest-api
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run seed
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
